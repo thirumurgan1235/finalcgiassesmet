@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\final assessment\\EmployeeApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC833B02-7B83-2217-828E-6302F6608E18}|EmployeeApi.csproj|e:\\final assessment\\employeeapi\\employeeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC833B02-7B83-2217-828E-6302F6608E18}|EmployeeApi.csproj|solutionrelative:employeeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC833B02-7B83-2217-828E-6302F6608E18}|EmployeeApi.csproj|e:\\final assessment\\employeeapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC833B02-7B83-2217-828E-6302F6608E18}|EmployeeApi.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC833B02-7B83-2217-828E-6302F6608E18}|EmployeeApi.csproj|e:\\final assessment\\employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC833B02-7B83-2217-828E-6302F6608E18}|EmployeeApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC833B02-7B83-2217-828E-6302F6608E18}|EmployeeApi.csproj|e:\\final assessment\\employeeapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC833B02-7B83-2217-828E-6302F6608E18}|EmployeeApi.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\final assessment\\EmployeeApi\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "E:\\final assessment\\EmployeeApi\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:07:36.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeApi",
+              "DocumentMoniker": "E:\\final assessment\\EmployeeApi\\EmployeeApi.csproj",
+              "RelativeDocumentMoniker": "EmployeeApi.csproj",
+              "ToolTip": "E:\\final assessment\\EmployeeApi\\EmployeeApi.csproj",
+              "RelativeToolTip": "EmployeeApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-18T10:54:31.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\final assessment\\EmployeeApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\final assessment\\EmployeeApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:53:09.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\final assessment\\EmployeeApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\final assessment\\EmployeeApi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:05:00.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
